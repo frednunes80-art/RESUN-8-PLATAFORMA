@@ -1,37 +1,31 @@
-# 📚 Biblioteca de Produção Científica (RESUN 8.0)
+# 🧪 Laboratório de Pesquisa e Testes
 **Autor:** Frederico Nunes Costa
 
-## 📑 Navegação Rápida (Toque para saltar)
-* 📑 [Ir para Artigo 01 (TGRE)](#art1)
-* 📑 [Ir para Artigo 02 (TPSD)](#art2)
-* 📑 [Ir para Artigo 03 (IA como Enzima)](#art3)
-* 📑 [Ir para Depósitos e Repositórios](#deps)
+## 📑 Atalhos de Busca Rápida
+* 🔧 [Ir para: Sistemas Automotivos](#mecanica)
+* 🧠 [Ir para: Epistemologia e IA](#filosofia)
+* 📊 [Ir para: Gestão da Qualidade](#qualidade)
 
 ---
 
-<div id="art1"></div>
+<div id="mecanica"></div>
 
-### 📗 Artigo 01: Teoria Geral da Ressonância Epistêmica (TGRE)
-* **Resumo:** Formalização da interação entre sistemas de conhecimento.
-
----
-
-<div id="art2"></div>
-
-### 📘 Artigo 02: Teoria Polioédrica do Sujeito em Devir (TPSD)
-* **Resumo:** Estudo da evolução constante do sujeito.
+## 🔧 1. Sistemas Automotivos (Mecatrônica)
+**Termos-chave:** Injeção eletrônica, scanner, bomba de combustível, mecatrônica.
+* Teste pesquisar por "bomba" ou "scanner" no navegador.
 
 ---
 
-<div id="art3"></div>
+<div id="filosofia"></div>
 
-### 📙 Artigo 03: IA como Enzima Catalisadora
-* **Resumo:** A IA como ferramenta de aceleração científica.
+## 🧠 2. Epistemologia e IA
+**Termos-chave:** Ressonância, TGRE, TPSD, enzima catalisadora, verdade científica.
+* Teste pesquisar por "enzima" ou "ressonância".
 
 ---
 
-<div id="deps"></div>
+<div id="qualidade"></div>
 
-## 🌐 Depósitos e Repositórios
-* **Zenodo:** (Pode colar aqui o link do seu pre-print).
-* **PhilSci-Archive:** (Pode colar aqui o link do depósito).
+## 📊 3. Gestão da Qualidade (TQM)
+**Termos-chave:** PDCA, Ishikawa, melhoria contínua, auditoria, eficácia.
+* Teste pesquisar por "Ishikawa" ou "PDCA".
